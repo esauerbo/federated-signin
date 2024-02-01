@@ -12,11 +12,11 @@ Amplify.configure({
         oauth: {
           redirectSignIn: [
             "http://localhost:3000/",
-            "https://main.dzj2kg93vmtwj.amplifyapp.com",
+            "https://main.dzj2kg93vmtwj.amplifyapp.com/",
           ],
           redirectSignOut: [
             "http://localhost:3000/",
-            "https://main.dzj2kg93vmtwj.amplifyapp.com",
+            "https://main.dzj2kg93vmtwj.amplifyapp.com/",
           ],
         },
       },
